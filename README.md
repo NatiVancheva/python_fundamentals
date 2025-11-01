@@ -1,2 +1,2 @@
-# python_conditional_statements_and_loops
+# python_fundamentals
 python_excercises
